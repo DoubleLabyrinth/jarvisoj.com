@@ -1,4 +1,4 @@
-# jarvisoj.com -- CRYPTO -- Backdoor
+# jarvisoj.com -- PWN -- Backdoor
 
 ## Challenge
 

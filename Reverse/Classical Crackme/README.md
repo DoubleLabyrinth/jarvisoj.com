@@ -1,4 +1,4 @@
-# jarvisoj.com -- CRYPTO -- Classical Crackme
+# jarvisoj.com -- REVERSE -- Classical Crackme
 
 ## Challenge
 

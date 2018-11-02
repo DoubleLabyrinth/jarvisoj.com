@@ -1,4 +1,4 @@
-# jarvisoj.com -- CRYPTO -- Smali
+# jarvisoj.com -- REVERSE -- Smali
 
 ## Challenge
 

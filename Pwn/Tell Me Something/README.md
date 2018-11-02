@@ -1,4 +1,4 @@
-# jarvisoj.com -- CRYPTO -- Tell Me Something
+# jarvisoj.com -- PWN -- Tell Me Something
 
 ## Challenge
 

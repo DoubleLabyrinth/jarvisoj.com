@@ -1,4 +1,4 @@
-# jarvisoj.com -- CRYPTO -- Smashes
+# jarvisoj.com -- PWN -- Smashes
 
 ## Challenge
 
