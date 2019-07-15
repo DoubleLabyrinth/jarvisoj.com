@@ -1,4 +1,4 @@
-# # jarvisoj.com -- CRYPTO -- 影之密码
+# jarvisoj.com -- CRYPTO -- 影之密码
 
 ## Challenge
 
